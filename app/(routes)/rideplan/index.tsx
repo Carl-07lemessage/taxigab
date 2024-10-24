@@ -1,4 +1,4 @@
-import RidePlanScreen from "@/screens/rideplan/rideplan.screen";
+import RidePlanScreen from "@/screens/redeplan/redeplan.screen";
 
 export default function index() {
   return (

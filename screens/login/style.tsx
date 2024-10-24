@@ -1,4 +1,4 @@
-import { commonStyles } from "@/styles/common.style";
+import { commonStyles } from "@/styles/common.styles";
 import { external } from "@/styles/external.style";
 import color from "@/themes/app.colors";
 import { fontSizes, windowHeight, windowWidth } from "@/themes/app.constant";

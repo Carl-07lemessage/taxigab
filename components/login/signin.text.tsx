@@ -30,9 +30,10 @@ export default function SignInText({
         style={[
           commonStyles.regularText,
           external.pt_4,
-          { textAlign: "left" },
-          
+          { textAlign: "left" }, // Alignement du texte à gauche
+        ]}
       >
+        {/* Si un sous-titre est fourni, l'afficher, sinon afficher le texte par défaut */}
         {subtitle
           ? subtitle
           : "Enter your phone number, get one otp and let's go 😍"}

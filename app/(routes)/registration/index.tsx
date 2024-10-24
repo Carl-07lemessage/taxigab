@@ -1,4 +1,4 @@
-import RegistrationScreen from '@/screens/registration/registration.screen'
+import RegistrationScreen from '@/screens/registation/registation.screen'
 
 export default function index() {
   return (

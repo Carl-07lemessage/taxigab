@@ -2,7 +2,7 @@ import { View, Text, TextInput } from "react-native";
 import { commonStyles } from "@/styles/common.styles";
 import { windowHeight, windowWidth } from "@/themes/app.constant"; 
 import { external } from "@/styles/external.style"; 
-import styles from "@/screens/login/styles"; 
+import styles from "@/screens/login/style"; 
 import color from "@/themes/app.colors";
 import SelectInput from "../common/select-input"; 
 import { useState } from "react"; 
