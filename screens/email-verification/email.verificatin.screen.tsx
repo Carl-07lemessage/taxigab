@@ -4,7 +4,7 @@ import { router, useLocalSearchParams } from "expo-router";
 import AuthContainer from "@/utils/container/auth-container";
 import { windowHeight } from "@/themes/app.constant";
 import SignInText from "@/components/login/signin.text";
-import { commonStyles } from "@/styles/common.style";
+import { commonStyles } from "@/styles/common.styles";
 import { external } from "@/styles/external.style";
 import Button from "@/components/common/button";
 import { style } from "../verification/style";

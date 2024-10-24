@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 import { fontSizes, windowHeight, windowWidth } from "@/themes/app.constant";
 import color from "@/themes/app.colors";
-import { commonStyles } from "@/styles/common.style";
+import { commonStyles } from "@/styles/common.styles";
 import fonts from "@/themes/app.fonts";
 
 const style = StyleSheet.create({

@@ -1,6 +1,6 @@
 import { Pressable, StyleSheet, Text } from "react-native";
 import React from "react";
-import { commonStyles } from "@/styles/common.style";
+import { commonStyles } from "@/styles/common.styles";
 import color from "@/themes/app.colors";
 import { windowHeight } from "@/themes/app.constant";
 import { external } from "@/styles/external.style";

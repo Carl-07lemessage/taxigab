@@ -1,6 +1,6 @@
 import { View, Text, SafeAreaView, FlatList, ScrollView } from "react-native";
 import styles from "./styles";
-import { commonStyles } from "@/styles/common.style";
+import { commonStyles } from "@/styles/common.styles";
 import { external } from "@/styles/external.style";
 import LocationSearchBar from "@/components/location/location.search.bar";
 import color from "@/themes/app.colors";

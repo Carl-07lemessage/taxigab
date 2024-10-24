@@ -1,5 +1,5 @@
 import { View, Text, TextInput } from "react-native"; 
-import { commonStyles } from "@/styles/common.style"; 
+import { commonStyles } from "@/styles/common.styles";
 import { windowHeight, windowWidth } from "@/themes/app.constant"; 
 import { external } from "@/styles/external.style"; 
 import styles from "@/screens/login/styles"; 

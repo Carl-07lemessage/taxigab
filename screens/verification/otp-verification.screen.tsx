@@ -9,7 +9,7 @@ import color from "@/themes/app.colors";
 import { external } from "@/styles/external.style";
 import Button from "@/components/common/button";
 import { router, useLocalSearchParams } from "expo-router";
-import { commonStyles } from "@/styles/common.style";
+import { commonStyles } from "@/styles/common.styles";
 import { useToast } from "react-native-toast-notifications";
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
